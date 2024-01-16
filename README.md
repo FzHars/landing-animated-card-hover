@@ -1,0 +1,1 @@
+Not responsive in device
